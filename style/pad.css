@@ -1,0 +1,67 @@
+@charset "utf-8";
+/*用于存放pad一类的样式*/
+
+
+.nav{
+    position: static;
+    float: right;
+    width: auto;
+    line-height: 44px;
+}
+.nav li{
+    float: left;
+    margin-left: 40px;
+}
+.nav .active{
+    color: #00c7c0;
+}
+
+.header_text h2{
+    margin-bottom: 0;
+    font-size: 48px;
+}
+.u_startBtn{
+    width: 140px;
+}
+/*首屏下的123*/
+.m_we_item{
+    float: left;
+    width: 29.3333%;
+    padding: 0 2%
+}
+
+.mod_case_cont{
+    margin: 0 -1%;
+}
+.mod_case_item{
+    float: left;
+    width: 23%;
+    margin: 1%;
+    position: relative;
+}
+
+.mod_filter a{
+    font-size: 16px;
+}
+.mod_case_item:nth-child(n + 5){
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+.padhide{display: none;}
+.padshow{display: block;}
+
+
+
+
+
+
+

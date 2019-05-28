@@ -1,0 +1,150 @@
+@charset "utf-8";
+/*用于存放所有pc样式*/
+.header_text{
+    margin-top: 178px;
+    margin-bottom: 200px;
+}
+
+.header_text h2{
+    font-size: 45px;
+    line-height: 62px;
+    color: #FFF;
+    padding: 0 1em;
+    margin-bottom: 30px;
+}
+.header_text p{
+    font-size: 30px;
+    margin-bottom: 1.5em;
+
+}
+
+.u_startBtn{
+    width: 180px;
+}
+.mod_filter a{
+    font-size: 18px;
+}
+
+
+.gWidth{
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mod_case{
+    margin: 0 50px 20px 50px;
+    // margin-bottom: 20px;
+}
+
+
+/*知识团队*/
+.team .team_tit{
+    padding-bottom: 35px;
+}
+
+.team .team_tit h4{
+    font-size: 35px;
+    color: #FFC500;
+    margin-bottom: 25px;
+}
+.team .team_tit p{
+    padding: 0 2em;
+}
+.desc p{
+    font-size: 12px;
+}
+
+
+
+/*lab图片块*/
+.lab .lab_item a{
+    padding: 2% 5.1%;
+}
+
+/*立即开始*/
+.start_text h2{
+    font-size: 35px;
+}
+.start_text p{
+    font-size: 12px;
+}
+
+
+
+
+
+/*阅读我们的博客*/
+.read .read_img{
+    padding-left: 10%;
+}
+.read .read_img_item{
+    float: left;
+    padding: 0 2%;
+}
+.read .read_img_item img{
+    height:130px;
+    width: auto;
+    margin: 0 auto;
+}
+.read .m_btns{
+    margin-top: 25px;
+}
+
+
+
+
+
+/*订阅*/
+.subscibe .input_btn p{
+    display: inline-block;
+}
+.subscibe .input_btn .subs_btn{
+    width: 200px;
+    border-radius: 30px;
+}
+.subscibe .input_btn .input{
+    width: 475px;
+}
+.subscibe .input_btn .subs_btn{
+    width: 95px;
+    line-height: 45px;
+}
+
+/*底部*/
+footer{
+    padding-bottom: 80px;
+    padding-top: 60px;
+}
+.footer{
+    padding-left: 2%;
+}
+
+.bandi p{
+    display: block;
+    width: 370px;
+    font-size； 13px;
+    color: #A7B8BF;
+    line-height: 33px;
+    padding-bottom: 70px;
+}
+.Links{
+    float: left;
+    padding-right: 10%;
+    padding-bottom: 30px;
+}
+.About_us{
+    float: left;
+    padding-right: 8%;
+}
+.Contact .email{
+    width: 370px;
+    height: 45px;
+    line-height: 45px;
+    margin-top: 40px;
+}
+.Contact ul li{
+    padding: 45px 10px 10px 0;
+}
+
+

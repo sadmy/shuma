@@ -1,0 +1,41 @@
+@charset "utf-8";
+/*用于存放所有pc宽屏样式*/
+.mod_amaned{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.a_bdlc{
+    display: block;
+    float: left;
+    width: 360px;
+    padding-top: 60px;
+}
+.a_bdrc {
+	float: right;
+    width: 620px;
+    padding-top: 45px;
+}
+.a_bdlc h3{
+    font-size: 30px;
+}
+.a_bdlc p{
+    line-height: 2;
+    margin-bottom: 20px;
+}
+
+
+
+
+.gWidth{
+/*    width: 1170px;*/
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+
